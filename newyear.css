@@ -1,4 +1,4 @@
-h4 {
+.head-look h4 {
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
@@ -9,7 +9,7 @@ h4 {
     padding-top: 77px;
 }
 
-h1 {
+.head-look h1 {
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
@@ -26,4 +26,39 @@ h1 {
     background-position: center;
 
 
+}
+
+.first-div {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.secound-div {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.third-div {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.new-year-photo {
+    width: 802.9px;
+    height: 500px;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    padding: 5px;  
 }
