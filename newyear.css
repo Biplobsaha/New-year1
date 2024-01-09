@@ -57,8 +57,199 @@
 .new-year-photo {
     width: 802.9px;
     height: 500px;
-    display: block;  
-    margin-left: auto;  
-    margin-right: auto;  
-    padding: 5px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.banner-item {
+    background-image: url(./resources/Vectorrr.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 30px 30px 0px 150px;
+    display: flex;
+}
+
+.banner h2 {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+
+    padding-top: 0px;
+    padding-left: 126px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+
+.banner p {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    padding-top: 0px;
+    padding-left: 126px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+
+.banner h3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-top: 0px;
+    padding-left: 156px;
+    padding-bottom: 134px;
+    padding-right: 300px;
+}
+
+.banner-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.protwen {
+
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 300px;
+}
+
+.plase {
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    background-color: rgba(255, 0, 0, 0.10);
+    margin: 144px;
+    padding-bottom: 100px;
+
+}
+
+.into {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+    text-transform: capitalize;
+}
+
+.btn-cv {
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    padding: 18px 35px;
+
+
+}
+
+.portfolio {
+    margin: 144px;
+}
+
+.best {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.port {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.sit {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.column {
+    float: left;
+    width: 32%;
+    padding: 5px;
+    text-align: center;
+
+
+}
+
+.row {
+    clear: both;
+    display: table;
+    text-align: center;
+    width: 100%;
+
+}
+
+.dolor {
+    padding: 0px 210px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.user {
+
+    padding: 18px 45px;
+
+    color: #757575;
+    background-color: #FFF;
+    border: 0;
+}
+
+footer{
+    background-color: #070211;
+}
+
+.foot-c {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    display: inline-block;
+    width:47%;
+    padding-left: 40px;
+    
+ 
+   
 }
